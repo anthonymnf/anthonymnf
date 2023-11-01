@@ -1,10 +1,12 @@
 ### Olá!! Eu sou Anthony Matheus
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div style="display": flex>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anthonymnf&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonymnf&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Anthony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anthony-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
